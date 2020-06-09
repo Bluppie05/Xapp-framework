@@ -1,15 +1,15 @@
-# Zappx-framework
+# Xapp-framework
 
-Zappx is an app framework for Linux and Unix based systems, Zappx is designed to make app development for Linux and Unix easy by using web technologies to run apps.
+Xapp is an app framework for Linux and Unix based systems, Zappx is designed to make app development for Linux and Unix easy by using web technologies to run apps.
 
-Zappx uses a heavily modified version of SlimerJS and firefox 56.0 to display the applications on your system, this makes Zapps run smoothly even on low end systems.
+Xapp uses a heavily modified version of SlimerJS and firefox 56.0 to display the applications on your system, this makes Xapps run smoothly even on low end systems.
 
-Go to [https://bitbiz.nl/zappx] to know more. The documentation can be found
+Go to [https://bitbiz.nl/xapp-framework] to know more. The documentation can be found
 on [http://docs.slimerjs.org].
 
 # Make an app
 
-1. Clone this repository by running ```git clone https://github.com/Bluppie05/Zappx-framework.git```
+1. Clone this repository by running ```git clone https://github.com/Bluppie05/Xapp-framework.git```
 2. Develop your webapp inside /src
 3. Add your app icons inside /chrome/icons/default
 4. Add your own README.md to the root of the cloned folder
@@ -18,7 +18,7 @@ on [http://docs.slimerjs.org].
 7. Zip the cloned folder
 8. You are ready to go!
 
-# Install a Zapp
+# Install an Xapp
 
 1. Extract the the applications zip
 2. Run install.sh
