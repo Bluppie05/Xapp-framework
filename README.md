@@ -13,7 +13,7 @@ on [http://docs.slimerjs.org].
 2. Develop your webapp inside /src
 3. Add your app icons inside /chrome/icons/default
 4. Add your own README.md to the root of the cloned folder
-5. Add an app.json file with the required info
+5. Add an name.txt with the name of your app inside
 6. Rename the cloned folder to your app's name
 7. Zip the cloned folder
 8. You are ready to go!
