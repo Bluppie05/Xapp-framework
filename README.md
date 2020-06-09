@@ -1,4 +1,4 @@
-# Zappx
+# Zappx-framework
 
 Zappx is an app framework for Linux and Unix based systems, Zappx is designed to make app development for Linux and Unix easy by using web technologies to run apps.
 
