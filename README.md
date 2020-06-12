@@ -1,6 +1,6 @@
 # Xapp-framework
 
-Xapp is an app framework for Linux and Unix based systems, Zappx is designed to make app development for Linux and Unix easy by using web technologies to run apps.
+Xapp is an app framework for Linux and Unix based systems, Xapp is designed to make app development for Linux and Unix easy by using web technologies to run apps.
 
 Xapp uses a heavily modified version of SlimerJS and firefox 56.0 to display the applications on your system, this makes Xapps run smoothly even on low end systems.
 
